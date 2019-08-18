@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+/*komentar usera 1*/
 /* Created by: Ilija Leko */
 void igra (char *unos, char *rijec);
 void pocetak (char *unos, char *rijec);
